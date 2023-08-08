@@ -3,8 +3,8 @@ function validateform()
     var text = document.getElementById('text').value;
 var password =document.getElementById('password').value;
 
-if(text=="Highfashioncompany" && password=="Chemistry0277"){
-    alert('Welcome Back Miley Lindsey Henderson')
+if(text=="Campbell" && password=="Manuel2023"){
+    alert('Welcome Back Mary Sanchez Roa')
 
     window.location.href="home.html"
 } else{
